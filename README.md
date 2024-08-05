@@ -24,4 +24,4 @@ Este script requiere Python 3.11 para funcionar.
 Para ejecutar el programa, simplemente abre una terminal, navega hasta el directorio donde se encuentra el script y ejecuta el siguiente comando:
 
 ```bash
-python nombre_del_archivo.py
+python program1.py
