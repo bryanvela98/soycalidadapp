@@ -17,7 +17,7 @@ El script está estructurado en varias funciones para realizar diferentes operac
 
 ## Requisitos
 
-Este script requiere Python 3.x para funcionar.
+Este script requiere Python 3.11 para funcionar.
 
 ## Ejecución
 
